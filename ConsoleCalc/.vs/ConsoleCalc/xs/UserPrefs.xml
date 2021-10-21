@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{CB7E36AB-80D7-4613-929C-C2CA852813B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="47" />
+      <File FileName="ConsoleCalc.UnitTests/UnitTest1.cs" Line="9" Column="10" />
+      <File FileName="Calculator.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleCalc" expanded="True">
+            <Node name="ConsoleCalc" expanded="True">
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
+            <Node name="ConsoleCalc.UnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ConsoleCalc" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleCalc PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

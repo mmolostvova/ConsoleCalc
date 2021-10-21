@@ -1,0 +1,5 @@
+/Users/mmolostvova/Projects/!DevEducationQA/Practice in class/ConsoleCalc/ConsoleCalc/obj/Debug/netcoreapp3.1/ConsoleCalc.csproj.AssemblyReference.cache
+/Users/mmolostvova/Projects/!DevEducationQA/Practice in class/ConsoleCalc/ConsoleCalc/obj/Debug/netcoreapp3.1/ConsoleCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmolostvova/Projects/!DevEducationQA/Practice in class/ConsoleCalc/ConsoleCalc/obj/Debug/netcoreapp3.1/ConsoleCalc.AssemblyInfoInputs.cache
+/Users/mmolostvova/Projects/!DevEducationQA/Practice in class/ConsoleCalc/ConsoleCalc/obj/Debug/netcoreapp3.1/ConsoleCalc.AssemblyInfo.cs
+/Users/mmolostvova/Projects/!DevEducationQA/Practice in class/ConsoleCalc/ConsoleCalc/obj/Debug/netcoreapp3.1/ConsoleCalc.csproj.CoreCompileInputs.cache
